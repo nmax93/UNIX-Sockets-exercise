@@ -1,6 +1,3 @@
-//Max Neviantsev 317497337
-//Daniel Kovalevski 204363204
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
